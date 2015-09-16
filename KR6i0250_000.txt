@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 禪祕要法經
+#+DATE: 2015-08-30 20:14:00.642788
+#+PROPERTY: JUAN 0
